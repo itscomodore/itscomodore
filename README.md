@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! Im Comodore 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Gamer+%7C+Tinkerer+%7C+Tech+Enthusiast;CS2+%7C+Minecraft+%7C+Formula+1;Modding+Discord+con+Equicord%2FVencord" alt="Typing SVG" /> </p>
+<h1 align="center">¡Hi! Im Comodore 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Gamer+%7C+Tinkerer+%7C+Tech+Enthusiast;CS2+%7C+Minecraft+%7C+Formula+1;" alt="Typing SVG" /> </p>
 
 <hr>
 

@@ -2,31 +2,28 @@
 
 <hr>
 
-🎮. About Me
+<h1>🎮 About Me </h1>
 
-🕹️. Passionate about everything PC gaming
-
-🔧. I love tinkering and customizing software
-
-🏎️. I follow Formula 1 closely
-
-🌎. Native Spanish speaker, sharing projects with the community
+<p>🕹️ Passionate about everything PC gaming</p>
+<p>🔧 I love tinkering and customizing software</p>
+<p>🏎️ I follow Formula 1 closely</p>
+<p>🌎 Native Spanish speaker, sharing projects with the community</p>
 
 <hr>
 
-🛠️ Tech & Modding
+<h1>🛠️ Tech & Modding</h1>
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
 <hr>
 
-🚀 Other Interests
-📊 Educational visual design (SVG illustrations, isometric technical drawings)
-🌱 Robotics / IoT projects
-✍️ Technical writing and documentation
+<h1>🚀 Other Interests</h1>
+<p>📊 Educational visual design (SVG illustrations, isometric technical drawings)</p>
+<p>🌱 Robotics / IoT projects</p>
+<p>✍️ Technical writing and documentation</p>
 
 <hr>
 
-📫 Connect With Me
+<h1>📫 Connect With Me</h1>
 <p align="left"> <a href="https://discord.com/users/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Discord-itscomodore-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/comodore4ever" target="_blank"><img src="https://img.shields.io/badge/Steam-Add%20your%20ID-000000?style=for-the-badge&logo=steam&logoColor=white" /></a> <a href="https://instagram.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Instagram-Add%20your%20handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://x.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/X-Add%20your%20handle-000000?style=for-the-badge&logo=x&logoColor=white" /></a> </p>
 
 <hr>

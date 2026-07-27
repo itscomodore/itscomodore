@@ -3,9 +3,13 @@
 <hr>
 
 🎮. About Me
+
 🕹️. Passionate about everything PC gaming
+
 🔧. I love tinkering and customizing software
+
 🏎️. I follow Formula 1 closely
+
 🌎. Native Spanish speaker, sharing projects with the community
 
 <hr>

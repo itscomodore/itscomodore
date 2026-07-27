@@ -24,7 +24,7 @@
 <hr>
 
 <h1>📫 Connect With Me</h1>
-<p align="left"> <a href="https://discord.com/users/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Discord-itscomodore-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/comodore4ever" target="_blank"><img src="https://img.shields.io/badge/Steam-itscomodore-000000?style=for-the-badge&logo=steam&logoColor=white" /></a> <a href="https://instagram.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Instagram-Add%20your%20handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://x.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/X-Add%20your%20handle-000000?style=for-the-badge&logo=x&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://discord.com/users/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Discord-itscomodore-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/comodore4ever" target="_blank"><img src="https://img.shields.io/badge/Steam-itscomodore-000000?style=for-the-badge&logo=steam&logoColor=white" /></a> <a href="https://instagram.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/Instagram-itscomodore-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://x.com/itscomodore" target="_blank"><img src="https://img.shields.io/badge/X-itscomodore-000000?style=for-the-badge&logo=x&logoColor=white" /></a> </p>
 
 <hr>
 
